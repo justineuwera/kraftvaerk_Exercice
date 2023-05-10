@@ -1,0 +1,14 @@
+{
+  "name": "kraftvaert_tests",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Justine",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.12.0"
+  }
+}
