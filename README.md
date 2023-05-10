@@ -11,7 +11,7 @@
 
 1. Use Command prompt (for Windows) or terminal (for MAC) to perform this:
 
-       $ git clone “https://github.com/justineuwera/GEM-Projects.git" 
+       $ git clone https://github.com/justineuwera/kraftvaerk_Exercice.git 
        
        $ cd Kraftvaert_tests
  
